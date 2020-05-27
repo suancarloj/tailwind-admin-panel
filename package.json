@@ -1,0 +1,32 @@
+{
+  "name": "tailwind-css-stripe-navigation",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "classnames": "2.2.6",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router": "6.0.0-alpha.5",
+    "react-router-dom": "6.0.0-alpha.5",
+    "react-scripts": "3.0.1",
+    "react-spring": "8.0.5",
+    "resize-observer-polyfill": "1.5.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
